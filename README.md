@@ -796,6 +796,7 @@ A curated list of awesome Objective-C frameworks, libraries and software.
 * [waylybaye/XcodeCleaner](https://github.com/waylybaye/XcodeCleaner) - Cleaner for Xcode.app built with react-native-macos *(archived)*
 * [comyar/Sol](https://github.com/comyar/Sol) - :sunny: Sol° beautifully displays weather information so you can plan your day accordingly. Check the weather in your current location or any city around the world. Implemented in Objective-C. *(archived)*
 * [erdwin90/crypto-bar-mac](https://github.com/erdwin90/crypto-bar-mac) - macOS crypto menu bar app that bring real time cryptocurrency prices using the CoinGecko API. Supports Bitcoin, Ethereum, and many other coins
+* [mthomason/MAD](https://github.com/mthomason/MAD) - Native macOS (`AppKit`), iOS (`UIKit`), and headless Linux (`GNUstep`) ad-hoc SQL query builder, banded report layout designer, and reporting engine for PostgreSQL, MySQL/MariaDB, SQL Server, and SQLite.
 * [wildfirechat/ios-chat](https://github.com/wildfirechat/ios-chat) - 即时通讯，聊天，野火IM iOS客户端
 * [gyjzh/LLWeChat](https://github.com/gyjzh/LLWeChat) - 实现IM基本功能，并且在细节、完成度、bugfree上媲美任何主流IM应用
 * [zhuhaichao518/cloudplayplus_stone](https://github.com/zhuhaichao518/cloudplayplus_stone) - Cloud Play Plus Remote Streaming Project
